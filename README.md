@@ -1,6 +1,7 @@
 # minirvEMU
 
 仅供作为学习参考
+https://ysyx.oscc.cc/docs/#%E6%95%99%E5%AD%A6%E8%B5%84%E6%BA%90
 
 minirv.circ为logisim文件
 ![alt text](image.png)
